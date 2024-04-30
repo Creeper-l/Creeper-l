@@ -7,7 +7,9 @@
 
 Accounts：[Atcoder](https://atcoder.jp/users/Creeper_l) | [Codeforces](https://codeforces.com/profile/Creeper_l) | [洛谷](https://www.luogu.com.cn/user/436107) | [Loj](https://loj.ac/u/Creeper_l) | [博客园](https://www.cnblogs.com/Creeperl/)
 
+[![AtCoder Rating of @Creeper_l](https://atrating.baoshuo.dev/rating?username=Creeper_l&style=for-the-badge)](https://atcoder.jp/users/Creeper_l)
 
+[![Codeforces Rating of @Creeper_l](https://cfrating.baoshuo.dev/rating?username=Creeper_l&style=for-the-badge)](https://codeforces.com/profile/Creeper_l)
 
 微信号：haikuotiankong090916
 

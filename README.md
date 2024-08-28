@@ -4,7 +4,7 @@ Hi！
 
 生日：2009.9.16
 
-坐标 SC，成都外国语学校初三 OIer。
+坐标 SC，成都外国语学校高一 OIer。
 
 [![AtCoder Rating of @Creeper_l](https://atrating.baoshuo.dev/rating?username=Creeper_l&style=for-the-badge)](https://atcoder.jp/users/Creeper_l)
 
